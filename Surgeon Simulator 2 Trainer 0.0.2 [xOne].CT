@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"Blood"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>"UnityPlayer.dll"+017CD648</Address>
+      <Offsets>
+        <Offset>38</Offset>
+        <Offset>78</Offset>
+        <Offset>190</Offset>
+        <Offset>D8</Offset>
+        <Offset>D8</Offset>
+        <Offset>D0</Offset>
+        <Offset>1B8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"Blood Lost"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>"UnityPlayer.dll"+01776780</Address>
+      <Offsets>
+        <Offset>84</Offset>
+        <Offset>48</Offset>
+        <Offset>120</Offset>
+        <Offset>28</Offset>
+        <Offset>108</Offset>
+        <Offset>10</Offset>
+        <Offset>20</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
